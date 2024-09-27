@@ -24,5 +24,15 @@
   - ▶️
   - 🇨🇦
   - 🕥
-    
+
+   ## Keyboard shortcuts
+   Shortcuts I frequently use:
+   - Ctrl-Alt-Del (task manager)
+   - Ctrl-C (copy)
+   - Ctrl-V (paste)
+
+   Shortcuts I would like to start using:
+   - Ctrl-Z (undo)
+   - Ctrl-A (select all)
+   - Win-D (show desktop)
   
