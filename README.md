@@ -26,6 +26,7 @@
   - 🕥
 
    ## Keyboard shortcuts
+   
    Shortcuts I frequently use:
    - Ctrl-Alt-Del (task manager)
    - Ctrl-C (copy)
