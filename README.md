@@ -11,7 +11,7 @@
 - \( = open bracket
 - \) = closed bracket
 
-  <h2>Links
+<h2>Links
     
     - [Egypt Discovery](https://www.msn.com/en-ca/news/world/egyptian-pyramids-were-built-using-an-incredibly-clever-machine-new-research-suggests/ar-AA1qTlMU?ocid=msedgntp&pc=U531&cvid=3c46c91f7f0c42d4b51bb3326731b647&ei=11)
     - [BBC](https://www.bbc.com/news)
@@ -25,7 +25,7 @@
   - 🇨🇦
   - 🕥
 
-   ## Keyboard shortcuts
+## Keyboard shortcuts
    
    Shortcuts I frequently use:
    - Ctrl-Alt-Del (task manager)
