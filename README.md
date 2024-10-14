@@ -39,3 +39,4 @@
         - Ctrl-A (select all)
         - Win-D (show desktop)
   
+[CLI commands](docs/cli.md)
